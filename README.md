@@ -214,10 +214,12 @@ netplan try
 Для примера, попробуем попинговать сеть с выборочных хостов 
 
 C office2Server
+
 ![images2](./images/network_16.png)
 
 
 C centralServer
+
 ![images2](./images/network_17.png)
 
 
@@ -225,6 +227,7 @@ C centralServer
 
 
 Обновляем пакеты
+
 ![images2](./images/network_18.png)
 
 Замечу, что процесс как будто бы медленнее, чем обновление на inetRouter, но может просто кажется 
